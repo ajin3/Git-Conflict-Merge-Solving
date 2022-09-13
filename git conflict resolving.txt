@@ -1,5 +1,10 @@
 Hello,
-My name is pooja
-Iam from kannur
-i like reading
+
+My name is pooja,
+Iam from kannur,
+i like reading.
+and
+My name is ajin,
+Iam from pathanamthitta,
+i like bike riding.
 
